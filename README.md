@@ -31,7 +31,7 @@ CurlyBaby Pet Service Matching Mobile App
   
 ### 📫 How to reach me:
 -----------------------    
-For work collaboration, [Email me](mailto:ChengYu.Hsu@colorado.edu) me!     
+For work collaboration, [Email me](mailto:ChengYu.Hsu@colorado.edu)!     
 For a quick response, DM me [Linkedin](https://www.linkedin.com/in/angushsu999/).     
 
 
