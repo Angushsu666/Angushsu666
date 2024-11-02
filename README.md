@@ -4,14 +4,14 @@ I am a first-year computer science graduate student at the University of Colorad
 
 - Check out [my website](https://angushsu666.github.io/) to learn more about me.
 - Stay connected with me on [Linkedin](https://www.linkedin.com/in/angushsu999/).
-- I'm currently working on a Large Language Models project on Reddit data.
+- I'm currently working on projects about LLM-Powered Analysis of Reddit Hot Topic Longevity and Kubernetes-based Scalable Document Processing Service.
 - I'm currently taking course in Datacenter Scale Computing, Data Mining. 
 
 ### 📦 Toolbox
 ----------------------------------------------------------------------------    
 **Language:** Python C++ Dart Swift JavaScript     
     
-**Database:** MYSQL, Firebase
+**Database:** MySQL, MongoDB, Firebase
     
 **Cloud Platforms:** AWS (EC2, S3, Lambda), Google Cloud Platform (Cloud Functions, Cloud Storage)  
     
