@@ -1,4 +1,4 @@
-### Hi there, This is Angus(Cheng-Yu) Hsu 👋
+### Hi there, This is Angus Hsu 👋
 
 I am a second-year computer science graduate student at the University of Colorado, Boulder, with a strong passion for leveraging software engineering to solve real-world problems.
 
