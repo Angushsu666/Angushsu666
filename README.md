@@ -5,17 +5,17 @@ I am a second-year computer science graduate student at the University of Colora
 - Check out [my website](https://angushsu666.github.io/) to learn more about me.
 - Stay connected with me on [Linkedin](https://www.linkedin.com/in/angushsu999/).
 - I'm currently working as an software engineer intern in Arcum AI.
-- I'm currently taking course in NLP and High Performance Scientific Programming.
+- I'm currently taking course in Distributed Systems and High Performance Scientific Programming.
 
 ### 📦 Toolbox
 ----------------------------------------------------------------------------    
-**Language:** Python, C++, Dart, Swift, JavaScript     
+**Language:** Python (PyTorch, TensorFlow, NumPy, Flask, Django), C++, Swift, Dart, JavaScript, HTML, CSS
+
+**Database:** MongoDB, Firebase Firestore, MySQL
+
+**Cloud Platforms:** AWS (EC2, Lambda, API Gateway), Google Cloud Platform (Cloud Functions, Cloud Storage, Dataproc), MPI, Slurm
     
-**Database:** MongoDB, Firebase, MySQL
-    
-**Cloud Platforms:** AWS (EC2, S3, Lambda), Google Cloud Platform (Cloud Functions, Cloud Storage)  
-    
-**Development tools:** Github, Linux, Vim, Docker, Kubernetes, Google Dataproc, Hadoop, Spark, Gradle 
+**Development tools:** Docker, Kubernetes, GitHub, Linux, gRPC, Hadoop, Spark, Roofline Analysis
     
 
 ### 💬 Ask me about 
