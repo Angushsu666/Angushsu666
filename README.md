@@ -4,8 +4,8 @@ I am a second-year computer science graduate student at the University of Colora
 
 - Check out [my website](https://angushsu666.github.io/) to learn more about me.
 - Stay connected with me on [Linkedin](https://www.linkedin.com/in/angushsu999/).
-- I'm currently working as an software engineer intern in Arcum AI.
-- I'm currently taking course in Distributed Systems and High Performance Scientific Programming.
+- I worked as an software engineer intern in Arcum AI.
+- I'm currently taking course in Distributed Systems.
 
 ### 📦 Toolbox
 ----------------------------------------------------------------------------    
