@@ -1,11 +1,10 @@
 ### Hi there, This is Angus Hsu 👋
 
-I am a second-year computer science graduate student at the University of Colorado, Boulder, with a strong passion for leveraging software engineering to solve real-world problems.
+I am a rencent computer science master's graduate from the University of Colorado, Boulder, with a strong passion for leveraging software engineering to solve real-world problems.
 
 - Check out [my website](https://angushsu666.github.io/) to learn more about me.
 - Stay connected with me on [Linkedin](https://www.linkedin.com/in/angushsu999/).
 - I worked as an software engineer intern in Arcum AI.
-- I'm currently taking course in Distributed Systems.
 
 ### 📦 Toolbox
 ----------------------------------------------------------------------------    
