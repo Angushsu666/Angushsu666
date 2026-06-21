@@ -23,7 +23,7 @@ CurlyBaby Pet Service Matching Mobile App
 
 ### ✨ Fun Facts
 ---------------------------------------------------------------------------- 
-- My favorite movie of all time is "The Notebook" directed by Nick Cassavetes.    
+- My favorite movie of all time is "Me Before You" directed by Thea Sharrock.    
 - I'm a big sports fan, so feel free to reach out if you'd like to catch a basketball or football game with me!
 - My first computer language is C and my favorite programming language is Python.
 
